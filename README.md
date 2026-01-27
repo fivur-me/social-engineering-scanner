@@ -142,5 +142,5 @@ Diseñada exclusivamente para análisis defensivo, formación y concienciación.
 ## Autor y licencia
 
 - Autor: F. Ubilla (@fivur-dev)
-- GitHub: [FivuR](https://github.com/fivur-dev)  
+- GitHub: [fivur](https://github.com/fivur-dev)  
 - Licencia: MIT
