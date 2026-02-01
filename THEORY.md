@@ -52,5 +52,5 @@ Se han priorizado estos tres vectores (escasez, autoridad, reciprocidad) debido 
 3.  **Hadnagy, C. (2010).** *Social Engineering: The Art of Human Hacking*. Wiley.
 
 ---
-**Autor:** F. Ubilla (@fivur-dev)
+**Autor:** F. Ubilla (@fivur-me)
 **Licencia:** MIT
